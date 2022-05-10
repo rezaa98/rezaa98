@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @rezaa98
-- 👀 I’m interested in Software Tester
-- 🌱 I’m currently learning selenium in automate testing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<p>Hi, I'm Reza Yusuf Maulana</p>
+Currently have experience as QA Engineer, i have knowledge to create web automation using cucumber selenium java, or cypress cucumber, API Testing using Postman, and performance testing using Jmeter.
 
 <!---
 rezaa98/rezaa98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
