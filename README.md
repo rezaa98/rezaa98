@@ -4,8 +4,8 @@ Currently have experience as QA Engineer, i have knowledge to create web automat
 ### Github Statistics
 <p align="left">
 <a href="https://github.com/rezaa98">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rezaa98&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rezaa98&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chandra179&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Chandra179&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
